@@ -1,0 +1,367 @@
+*************************************************************
+FileName = Pmod_AESEBU4x4.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Courtyard
+      File : Pmod_AESEBU4x4.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+    D60
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Pmod_AESEBU4x4.GM14
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D10
+    D14
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Pmod_AESEBU4x4.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+    D14
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : Pmod_AESEBU4x4.GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : Pmod_AESEBU4x4.GM1
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Pmod_AESEBU4x4.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D14
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Pmod_AESEBU4x4.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Pmod_AESEBU4x4.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D22
+    D23
+    D54
+    D55
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Pmod_AESEBU4x4.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Pmod_AESEBU4x4.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Pmod_AESEBU4x4.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Pmod_AESEBU4x4.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D33
+    D34
+    D35
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Pmod_AESEBU4x4.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D22
+    D23
+    D33
+    D34
+    D35
+    D46
+    D47
+    D48
+    D49
+    D50
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Pmod_AESEBU4x4.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D22
+    D23
+    D33
+    D34
+    D35
+    D40
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Int2 (GND)
+      File : Pmod_AESEBU4x4.G2
+
+    Adding Layer      : Int2 (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D34
+    D40
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Int1 (GND)
+      File : Pmod_AESEBU4x4.G1
+
+    Adding Layer      : Int1 (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D34
+    D40
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Pmod_AESEBU4x4.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D33
+    D34
+    D35
+    D40
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Pmod_AESEBU4x4.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D57
+    D58
+*************************************************************
+

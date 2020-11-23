@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Pmod_AESEBU4x4.PcbDoc   2020-11-22  5:29:40 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Pmod_AESEBU4x4-RoundHoles.TXT
+ASCII SlotHoles File : Pmod_AESEBU4x4-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             104       PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             113       PTH        0.00inch (0.00mm)
+T3      26mil (0.65mm)                                            Slot              4         PTH        0.00inch (0.00mm)
+T4      39mil (1.001mm)                                           Round             24        PTH        0.00inch (0.00mm)
+T5      41mil (1.041mm)                                           Round             25        PTH        0.00inch (0.00mm)
+T6      134mil (3.401mm)        +/-8mil (0.2mm)                   Round             1         PTH        0.00inch (0.00mm)
+T7      125mil (3.175mm)                                          Round             2         NPTH       0.00inch (0.00mm)
+T8      134mil (3.401mm)        +/-8mil (0.2mm)                   Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              275
+
+Total Processing Time (hh:mm:ss) : 00:00:00

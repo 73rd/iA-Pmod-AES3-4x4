@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Pmod_AESEBU4x4.PcbDoc]
+   Generated File[Pmod_AESEBU4x4-RoundHoles.TXT]
+   Generated File[Pmod_AESEBU4x4-SlotHoles.TXT]
+   Generated File[Pmod_AESEBU4x4.LDP]
+   Generated File[Pmod_AESEBU4x4.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:29:41 AM On 2020-11-22

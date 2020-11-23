@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: D:\_Design\iA-Wrk\Projects\iA-Pmod_AESEBU4x4\Pmod_AESEBU4x4\Pmod_AESEBU4x4.PcbDoc
+RuleKind=Clearance|RuleName=S55_DiffPair|Scope=Board|Minimum=10.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.12
+RuleKind=Width|RuleName=Width_S55|Scope=Board|Minimum=9.50
+RuleKind=Width|RuleName=Width_S50|Scope=Board|Minimum=11.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=TentedVias|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_JLC_Outter|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
