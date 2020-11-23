@@ -1,0 +1,18 @@
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/bower_components/
+/node_modules/
+
+# ALTIUM
+# Altium thumbnail files
+**/__Previews/
+# Altium backup archives
+**/History/
+# Generated output files
+Project\ Outputs*/
+Project\ Logs*/
+Assembly\ Exports/
+*.rawProject\ Outputs*/
+# Altium metadata file
+*.PcbDoc.htm
